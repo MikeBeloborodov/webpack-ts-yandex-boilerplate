@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "webpack --mode=development"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.5.1",
+    "webpack-cli": "^5.1.4",
+    "wepback": "^1.0.0"
+  }
+}
